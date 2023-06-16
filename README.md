@@ -84,23 +84,32 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<br />
+<p align="justify">
+The project focuses on the development of a machine learning model for detecting characters using MobileNetV2, a popular convolutional neural network architecture. In this project, pre-trained weights from ImageNet are utilized, and the last few layers of the model are retrained while keeping the earlier layers' weights frozen.
+<br />
+To train the model, a combination of Kaggle dataset and additional data collected by the team is used, resulting in a total of 4067 images. The dataset is split using a 60:20:20 ratio for training, validation, and testing purposes respectively.
+<br />
+During the training phase, the model undergoes 50 epochs with a learning rate of 0.001, employing the Adam optimizer and utilizing categorical cross-entropy as the loss function. This configuration helps the model to learn and classify characters effectively.
+<br />
+After the classification model is trained, the project expands by incorporating additional features such as image segmentation, ultimately transforming the model into a scanner. This integration enables the model to perform more advanced tasks beyond character detection, enhancing its functionality and potential applications.
+<br />
+Overall, this project demonstrates the utilization of MobileNetV2, transfer learning with pre-trained weights, and various machine learning techniques to develop a character detection model. The integration of image segmentation further enhances the model's capabilities, extending its functionality to serve as a scanner.
+<br />
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `baksara-id`, `machine-learning`, `baksara_id`, `achmadnr9`, `email_client`, `email`, `project_title`, `project_description`
-
+<br />
+</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Tensorflow][tensorflow]][tensorflow-url]
+* [![Keras][keras]][keras-url]
+* [![OpenCV][opencv]][opencv-url]
+* [![Numpy][numpy]][numpy-url]
+* [![Matplotlib][matplotlib]][matplotlib-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,19 +239,13 @@ Project Link: [https://github.com/baksara-id/machine-learning](https://github.co
 [linkedin-url1]: https://linkedin.com/in/achmadnr9
 [linkedin-url2]: https://linkedin.com/in/achmadnr9
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[tensorflow]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[tensorflow-url]: https://tensorflow.org/
+[keras]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[keras-url]: https://keras.io/
+[opencv]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[opencv-url]: https://opencv.org/
+[numpy]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[numpy-url]: https://numpy.org/
+[matplotlib]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[matplotlib-url]: https://matplotlib.org/
