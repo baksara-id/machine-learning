@@ -49,7 +49,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Machine Learning Workflow][https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png]]()
+![Machine Learning Workflow](https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png)
+
 <br />
 <p align="justify">
 The project focuses on the development of a machine learning model for detecting characters using MobileNetV2, a popular convolutional neural network architecture. In this project, pre-trained weights from ImageNet are utilized, and the last few layers of the model are retrained while keeping the earlier layers' weights frozen.
