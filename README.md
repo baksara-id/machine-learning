@@ -96,8 +96,6 @@ After the classification model is trained, the project expands by incorporating 
 <br />
 Overall, this project demonstrates the utilization of MobileNetV2, transfer learning with pre-trained weights, and various machine learning techniques to develop a character detection model. The integration of image segmentation further enhances the model's capabilities, extending its functionality to serve as a scanner.
 <br />
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `baksara-id`, `machine-learning`, `baksara_id`, `achmadnr9`, `email_client`, `email`, `project_title`, `project_description`
-<br />
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
