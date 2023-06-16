@@ -11,10 +11,10 @@
     <img src="images/Tensorflow_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Machine Learning Workspace</h3>
 
   <p align="center">
-    project_description
+    Model Building, Segmentation Pipeline, and other Helpers
     <br />
     <a href="https://github.com/baksara-id/machine-learning"><strong>Explore the docs »</strong></a>
     <br />
@@ -41,12 +41,9 @@
     </li>
 
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
