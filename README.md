@@ -64,7 +64,7 @@ The project focuses on the development of a machine learning model for detecting
 To train the model, a combination of Kaggle dataset and additional data collected by the team is used, resulting in a total of 4067 images. The dataset is split using a 60:20:20 ratio for training, validation, and testing purposes respectively.
 </p>
 
-<br />
+
 ![Model Summary](https://github.com/baksara-id/machine-learning/blob/main/images/acc_epoch.png)
 <p align="justify">
 During the training phase, the model undergoes 50 epochs with a learning rate of 0.001, employing the Adam optimizer and utilizing categorical cross-entropy as the loss function. This configuration helps the model to learn and classify characters effectively.
