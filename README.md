@@ -202,20 +202,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@baksara_id](https://twitter.com/baksara_id) - email@email_client.com
+Your Name - [@baksara_id](https://youtube.com/baksara_id) - YOUTUBE CHANNEL
 
 Project Link: [https://github.com/baksara-id/machine-learning](https://github.com/baksara-id/machine-learning)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
