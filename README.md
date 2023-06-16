@@ -247,5 +247,5 @@ Project Link: [https://github.com/baksara-id/machine-learning](https://github.co
 [opencv-url]: https://opencv.org/
 [numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [numpy-url]: https://numpy.org/
-[matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[matplotlib]: https://img.shields.io/badge/Matplotlib-%23dddfff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [matplotlib-url]: https://matplotlib.org/
