@@ -55,7 +55,10 @@
 The machine learning workflow involves a series of steps to develop and deploy a machine learning model. It begins with gathering the dataset, extracting data from Jotform, and performing image cleaning. Data augmentation is applied to increase dataset diversity. The dataset is then split into training, development, and testing sets. The model is built using the MobileNetV2 architecture, trained on the training set, and evaluated on the development set. Testing is conducted on an independent testing set to assess generalization. The trained model is saved in .h5 format, and Flask is utilized for deploying the model as an API, enabling integration into various applications or systems.
 </p>
 
-<br />
+![Segmentation Workflow](https://github.com/baksara-id/machine-learning/blob/main/images/Segmentation%20Flow.png)
+<p align="justify">
+Aksara Jawa segmentation using projectile profile is a technique used to separate individual Aksara Jawa characters, which are the script used for writing Javanese language, from a continuous text or image. The segmentation process involves analyzing the shapes and properties of each character using the concept of a projectile profile. A projectile profile represents the trajectory of a virtual projectile fired from the top of each character to the bottom. By examining the intersections between the projectile profile and the character contours, it is possible to determine the boundaries and positions of each Aksara Jawa character. 
+</p>
 
 ![Model Summary](https://github.com/baksara-id/machine-learning/blob/main/images/Model%20SUmmary.png)
 <p align="justify">
