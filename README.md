@@ -50,20 +50,30 @@
 ## About The Project
 
 ![Machine Learning Workflow](https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png)
+<br />
+<p align="justify">
+The machine learning workflow involves a series of steps to develop and deploy a machine learning model. It begins with gathering the dataset, extracting data from Jotform, and performing image cleaning. Data augmentation is applied to increase dataset diversity. The dataset is then split into training, development, and testing sets. The model is built using the MobileNetV2 architecture, trained on the training set, and evaluated on the development set. Testing is conducted on an independent testing set to assess generalization. The trained model is saved in .h5 format, and Flask is utilized for deploying the model as an API, enabling integration into various applications or systems.
+</p>
 
 <br />
+
+![Model Summary]([https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png](https://github.com/baksara-id/machine-learning/blob/main/images/Model%20SUmmary.png))
 <p align="justify">
 The project focuses on the development of a machine learning model for detecting characters using MobileNetV2, a popular convolutional neural network architecture. In this project, pre-trained weights from ImageNet are utilized, and the last few layers of the model are retrained while keeping the earlier layers' weights frozen.
 <br />
 To train the model, a combination of Kaggle dataset and additional data collected by the team is used, resulting in a total of 4067 images. The dataset is split using a 60:20:20 ratio for training, validation, and testing purposes respectively.
+</p>
+
 <br />
+![Model Summary]([https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png](https://github.com/baksara-id/machine-learning/blob/main/images/Model%20SUmmary.png))
+<p align="justify">
 During the training phase, the model undergoes 50 epochs with a learning rate of 0.001, employing the Adam optimizer and utilizing categorical cross-entropy as the loss function. This configuration helps the model to learn and classify characters effectively.
 <br />
 After the classification model is trained, the project expands by incorporating additional features such as image segmentation, ultimately transforming the model into a scanner. This integration enables the model to perform more advanced tasks beyond character detection, enhancing its functionality and potential applications.
 <br />
 Overall, this project demonstrates the utilization of MobileNetV2, transfer learning with pre-trained weights, and various machine learning techniques to develop a character detection model. The integration of image segmentation further enhances the model's capabilities, extending its functionality to serve as a scanner.
-<br />
 </p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
