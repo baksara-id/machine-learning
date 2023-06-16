@@ -57,7 +57,7 @@ The machine learning workflow involves a series of steps to develop and deploy a
 
 <br />
 
-![Model Summary]([https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png)
+![Model Summary](https://github.com/baksara-id/machine-learning/blob/main/images/Model%20SUmmary.png)
 <p align="justify">
 The project focuses on the development of a machine learning model for detecting characters using MobileNetV2, a popular convolutional neural network architecture. In this project, pre-trained weights from ImageNet are utilized, and the last few layers of the model are retrained while keeping the earlier layers' weights frozen.
 <br />
@@ -65,7 +65,7 @@ To train the model, a combination of Kaggle dataset and additional data collecte
 </p>
 
 <br />
-![Model Summary](https://github.com/baksara-id/machine-learning/blob/main/images/ML%20Workflow%20Fix.png)
+![Model Summary](https://github.com/baksara-id/machine-learning/blob/main/images/acc_epoch.png)
 <p align="justify">
 During the training phase, the model undergoes 50 epochs with a learning rate of 0.001, employing the Adam optimizer and utilizing categorical cross-entropy as the loss function. This configuration helps the model to learn and classify characters effectively.
 <br />
