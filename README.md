@@ -73,7 +73,7 @@ To train the model, a combination of Kaggle dataset and additional data collecte
 During the training phase, the model undergoes 50 epochs with a learning rate of 0.001, employing the Adam optimizer and utilizing categorical cross-entropy as the loss function. This configuration helps the model to learn and classify characters effectively.
 <br />
 After the classification model is trained, the project expands by incorporating additional features such as image segmentation, ultimately transforming the model into a scanner. This integration enables the model to perform more advanced tasks beyond character detection, enhancing its functionality and potential applications.
-<br /><br /><br />
+<br /><br />
 Overall, this project demonstrates the utilization of MobileNetV2, transfer learning with pre-trained weights, and various machine learning techniques to develop a character detection model. The integration of image segmentation further enhances the model's capabilities, extending its functionality to serve as a scanner.
 </p>
 
